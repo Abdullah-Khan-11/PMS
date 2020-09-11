@@ -1,0 +1,26 @@
+{
+  "name": "ayish",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "homepage": "https://github.com/Abdullah-Khan-11/PMS",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-validator": "^6.6.0",
+    "gh-pages": "^3.1.0",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "local-storage": "^2.0.0",
+    "mongoose": "^5.9.20",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "~1.9.1",
+    "node-localstorage": "^2.1.6",
+    "nodemon": "^2.0.4"
+  }
+}
